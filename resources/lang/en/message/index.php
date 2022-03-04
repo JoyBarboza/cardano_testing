@@ -1,0 +1,11 @@
+<?php
+ return[
+'Management'=>'Management',
+'message'=>'Message',
+'compose'=>'Compose',
+'inbox'=>'Inbox',
+'outbox'=>'Outbox',
+'drafted'=>'Drafted',
+'important'=>'Important',
+'trash'=>'Trash',
+];?>

@@ -1,0 +1,10 @@
+.date_err,.err_response, .sub_unit_err{
+    color: #FF0000;
+}
+
+.coin-qnty, .coin-price {
+    margin: 5px;
+  }
+.page-logo img{width: 44px;
+margin-top: 4px;}
+.page-sidebar-closed .page-logo img{display:none;}

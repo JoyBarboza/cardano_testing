@@ -1,0 +1,28 @@
+<?php 
+return [
+'USD_Withdrawal'=>'USD Withdrawal',
+'Withdraw'=>'Withdraw',
+'Address'=>'Address',
+'RefID'=>'Ref ID',
+'Amount'=>'Amount',
+'Currency'=>'Currency',
+'GoBack'=>'Go Back',
+'Select_coin_of_withdrawal'=>'Select coin of withdrawal',
+'Bitcoin'=>'Bitcoin',
+'Bitcoin_Cash'=>'Bitcoin Cash',
+'Litecoin'=>'Litecoin',
+'Litecoin_Testnet'=>'Litecoin Testnet',
+'Amount'=>'Amount',
+'Proceed'=>'Proceed',
+'Monereo'=>'Monereo',
+'Payment_Method'=>'Payment Method',
+'Generate_Withdraw_Request'=>'Generate Withdraw Request',
+'Date'=>'Date',
+'Fees'=>'Fees',
+'Amount_Received'=>'Amount Received',
+'Address'=>'Address',
+'Description'=>'Description',
+'Status'=>'Status',
+'No_data'=>'No Withdraw Request Found',
+];
+?>

@@ -1,0 +1,14 @@
+<?php
+ return[
+'go'=>'行く!',
+'search'=>'サーチ',
+'home'=>'ホーム',
+'user'=>'ユーザー',
+'account'=>'アカウント',
+'User_account'=>'ユーザーアカウント',
+'Full_Name'=>'フルネーム',
+'Action'=>'アクション',
+'Email'=>'Eメール',
+'Credit'=>'クレジット',
+'Debit'=>'デビット',
+];?>

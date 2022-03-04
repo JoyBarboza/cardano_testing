@@ -1,0 +1,36 @@
+/*for mobile*/
+@media only screen and (max-width:760px) {
+
+.banner-area .banner-content .banner_logo { max-width: 300px; margin: 20px 0px;}
+.banner-area {padding-top: 00px;}
+.banner_bg {min-height: 350px;}
+.ICO_sale_section {width: 100%;}
+.mobile_desktop_img{width:250px}
+.mobile_width {margin-top: 20px; padding: 0px 20px;}
+
+.faq-accrodion .accrodion .accrodion-inner {padding: 20px 0;}
+.faq-accrodion .accrodion .accrodion-title h4 {font-size: 17px;}
+.gert_line{display: none;}
+.marker_logo {width: 200px; margin: 15px 0px;}
+.line_padding {padding: 20px 0px;}
+
+}
+/*for medium mobile*/
+@media only screen and (min-width:480px) and (max-width:760px) {
+
+
+}
+/*for tablet*/
+@media only screen and (min-width:760px) and (max-width:1000px) {
+
+}
+
+/*for destop*/
+@media (min-width: 1200px){
+ 
+
+ }
+
+
+
+

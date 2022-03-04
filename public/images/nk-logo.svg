@@ -1,0 +1,29 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144.9 35.8">
+<g>
+	<g>
+		<polygon fill="#00B8CD" points="15.5,0 0,9 7.8,13.4 		"/>
+		<polygon fill="#8ED5E5" points="15.5,17.9 15.5,0 7.8,13.4 		"/>
+		<polygon fill="#006997" points="23.3,13.4 15.5,0 15.5,17.9 		"/>
+		<polygon fill="#00B8CD" points="31,9 15.5,0 23.3,13.4 		"/>
+		<polygon fill="#0095B0" points="0,9 0,26.9 7.8,13.4 		"/>
+		<polygon fill="#8ED5E5" points="15.5,17.9 31,26.9 23.3,13.4 		"/>
+		<polygon fill="#0095B0" points="23.3,13.4 31,26.9 31,9 		"/>
+		<g>
+			<polygon fill="#006997" points="15.5,17.9 15.5,26.9 31,26.9 			"/>
+			<polygon fill="#0095B0" points="15.5,26.9 15.5,35.8 31,26.9 			"/>
+		</g>
+		<polygon fill="#C8E9EE" points="7.8,13.4 0,26.9 15.5,17.9 		"/>
+		<polygon fill="#00B8CD" points="0,26.9 15.5,35.8 15.5,26.9 		"/>
+		<polygon fill="#0095B0" points="15.5,17.9 0,26.9 15.5,26.9 		"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#006997" d="M47.4,13.3v17.5h-5.7V4.3H49l8.7,18.3V4.3h5.7v26.6h-7.4L47.4,13.3z"/>
+			<path fill="#006997" d="M69.4,30.8V4.3h16.7v5.3H75.3v4.9h9.9v5.3h-9.9v5.8h10.7v5.3H69.4z"/>
+			<path fill="#006997" d="M103.3,9.6v21.3h-6V9.6h-7.1V4.3h20.3v5.3H103.3z"/>
+			<path fill="#006997" d="M114.2,4.3h6v26.6h-6V4.3z M119.5,17.3l8.5-13h6.7l-8.3,13l8.8,13.6h-6.7L119.5,17.3z"/>
+			<path fill="#006997" d="M138.9,30.8V4.3h6v26.6H138.9z"/>
+		</g>
+	</g>
+</g>
+</svg>

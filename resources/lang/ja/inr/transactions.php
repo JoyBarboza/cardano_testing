@@ -1,0 +1,9 @@
+<?php
+ return[
+'transactions_history'=>'トランザクションの履歴',
+'date'=>'日付',
+'refno'=>'RefNo',
+'amount'=>'量',
+'type'=>'タイプ',
+'status'=>'状態',
+];?>  

@@ -1,0 +1,13 @@
+<?php
+return[
+'transaction_details'=>'取引の詳細',
+'currency_exchange_details'=>'外貨両替の詳細',
+'exchange'=>'交換',
+'to'=>'に',
+'on'=>'オン',
+'amount'=>'量',
+'convert_amount'=>'金額を換算する',
+'fee'=>'費用',
+'tax'=>'税金',
+'total_receive_amount'=>'合計受領額',
+];?>

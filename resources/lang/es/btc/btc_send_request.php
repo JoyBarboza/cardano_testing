@@ -1,0 +1,9 @@
+<?php
+return[
+'back'=>'Atrás',
+'send'=>'Enviar',
+'receive'=>'Recibir',
+'buy_sell'=>'Comprar/Vender',
+'btc'=>'BTC',
+'copy'=>'Copiar',
+];?>

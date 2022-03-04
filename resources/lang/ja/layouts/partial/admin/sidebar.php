@@ -1,0 +1,26 @@
+<?php
+ return[
+'accounts'=>'アカウント',
+'dashboard'=>'ダッシュボード',
+'members'=>'メンバー',
+'transactions'=>'トランザクション',
+'approval'=>'承認',
+'document'=>'資料',
+'withdrawal'=>'撤退',
+'deposit'=>'保証金',
+'message'=>'メッセージ',
+'setting'=>'設定',
+'limits'=>'限界',
+'charges'=>'料金',
+'presale'=>'前売',
+'language'=>'言語',
+'referral'=>'紹介',
+'banner' => 'バナー',
+'Env_settings' => 'Env Settings',
+'Wire_Transfer' => 'Wire Transfer',
+'Bank_Deposit' => 'Deposit',
+'announcement' => 'Announcement',
+'cloud_mining' => 'Core Mining',
+'cloud_mining_subscription' => 'Core Mining Subscription',
+'env' => 'Env Settings'
+];?>

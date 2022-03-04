@@ -1,0 +1,23 @@
+<?php
+ return[
+'enter_user_info'=>'ユーザー情報を入力',
+'home'=>'ホーム',
+'approval_deposit'=>'承認入金',
+'approval'=>'承認',
+'management'=>'管理',
+'search_by'=>'で検索',
+'transaction_date_between'=>'取引日間',
+'to'=>'に',
+'transaction_id'=>'トランザクション識別',
+'user'=>'ユーザー',
+'search'=>'サーチ',
+'user_transaction_management'=>'ユーザートランザクション管理',
+'date'=>'日付',
+'payement_ref_no'=>'支払参照番号',
+'username'=>'ユーザー名',
+'amount'=>'量',
+'action'=>'アクション',
+'pending'=>'保留中',
+'not_permited'=>'許可されていません',
+'no_transaction_exists'=>'取引が存在しない',
+];?>

@@ -1,0 +1,20 @@
+<?php
+ return[
+'identification_no'=>'Número de Identificação',
+'home'=>'Inicio',
+'approve'=>'Aprovado',
+'approved_document_list'=>'Lista de documentos aprovados',
+'username'=>'Número de usuário',
+'address'=>'AEndereço',
+'city'=>'Cidade',
+'state'=>'Estado,
+'panno'=>'Documento de Identidade',
+'documents'=>'Documentos',
+'Pending'=>'Pendentes',
+'Verified'=>'Verificados',
+'Rejected'=>'Rejeitados',
+'document_display'=>'Exibir Documentos',
+'verification_status'=>'Verificação de Status',
+'no_verification_pending'=>'Nenhum pedido de verificação está pendente',
+'close'=>'Fechar',
+];?>

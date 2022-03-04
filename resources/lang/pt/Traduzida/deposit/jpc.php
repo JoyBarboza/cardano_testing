@@ -1,0 +1,21 @@
+<?php
+ return[
+'JPC_Payment_Instructions'=>' TIME Instruções de Pagamento',
+'Deposit_Fiat_Currency'=>'Deposito de moeda Fiat',
+'Deposit'=>'Deposito',
+'Address'=>'Endereço',
+'TxnID'=>'CPF ID',
+'Amount'=>'Quantidade',
+'Currency'=>'Moeda',
+'Check_Status'=>'Verificar Status',
+'Deposit_amount_address'=>'Depositar quantidade neste endereço',
+'Select_coin_to_pay'=>'Selecionar forma de pagamento',
+'Bitcoin'=>'Bitcoin',
+'Bitcoin_Cash'=>'Bitcoin Cash',
+'Litecoin'=>'Litecoin',
+'Monereo'=>'Monereo',
+'Litecoin_Testnet'=>'Litecoin Testnet',
+'Proceed'=>'Prosseguir',
+'USD_Payment_Instructions'=>'Instruções de pagamento USD',
+'maintain_usd_balance'=>'Você pode manter um saldo USD em sua conta TIME que você pode usar para comprar altcoin instantaneamente. Complete o carregamento do documento KYC antes de transferir USD para nossa conta bancária. Nós não aceitamos depósitos em dinheiro e você precisará usar NEFT / RTGS / IMPS somente da sua conta bancária registrada. Depois de transferir o USD, volte para esta página e atualize o NÚMERO DE REFERÊNCIA da sua transferência contra a ordem de depósito que você criou. Uma vez que recebemos USD em nossa conta bancária, seu pedido de DEPOSITO será processado em 3-4 horas de trabalho, mas pode levar até 24 horas. Nosso horário de processamento é entre as 10:00 às 19:00 da manhã em dias da semana (Seg-Sáb).',
+'hold_usd_in_usd_wallet'=>'Só podemos manter o seu USD em sua carteira USD por até 90 dias. Se você não usar completamente seu saldo em USD dentro de 90 dias, devolveremos o saldo remanescente para sua conta bancária. Temos limites para o valor de USD que você pode manter no seu saldo USD. Temos contas com o State Bank of India para o qual você pode enviar pagamentos em dólares americanos.];?>

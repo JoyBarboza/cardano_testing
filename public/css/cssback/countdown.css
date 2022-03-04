@@ -1,0 +1,105 @@
+
+.countdown {
+  font-family: 'Roboto';
+  text-transform: uppercase;
+}
+
+.countdown > div { display: inline-block; }
+
+.countdown > div > span {
+  display: block;
+  text-align: center;
+}
+
+.countdown-container { margin: 0 3px; }
+
+.countdown-container .countdown-heading {
+  font-size: 11px;
+  margin: 3px;
+  color: #666
+}
+
+.countdown-container .countdown-value {
+  font-size: 40px;
+  background: #333;
+  padding: 10px;
+  color: #fff;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+  border-radius:5px;
+}
+
+.clear-loading {
+  margin-bottom: 20px !important;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.spinner {
+    width: 60px;
+    height: 60px;
+}
+
+.spinner > span,
+.spinner > span:before,
+.spinner > span:after {
+    content: "";
+    display: block;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+.spinner > span {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-left-color: transparent;
+    -webkit-animation: effect-2 2s infinite linear;
+    -moz-animation: effect-2 2s infinite linear;
+    -o-animation: effect-2 2s infinite linear;
+    animation: effect-2 2s infinite linear;
+}
+
+.spinner > span:before {width: 75%; height: 75%; border-right-color: transparent;}
+
+.spinner > span:after { width: 50%; height: 50%; border-bottom-color: transparent;}
+
+@-webkit-keyframes effect-2 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes effect-2 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

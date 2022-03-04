@@ -1,0 +1,18 @@
+<?php
+ return[
+'profile'=>'プロフィール',
+'edit_profile'=>'プロファイル編集',
+'name'=>'名',
+'phone'=>'電話',
+'email'=>'メール',
+'pincode'=>'ピンコード',
+'pan'=>'Pan',
+'pancard'=>'Pancard',
+'passport'=>'パスポート',
+'photo'=>'写真',
+'adhar_dl'=>'Adhar/DL',
+'unverified'=>'未確認',
+'have_not_submit_details'=>'まだ詳細と書類を提出していない.',
+'verify_account'=>'アカウントを確認',
+'Your_Referral_Code'=>'あなたの紹介コード',
+];?>

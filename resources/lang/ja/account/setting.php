@@ -1,0 +1,13 @@
+<?php
+ return[
+'settings'=>'設定',
+'page_under_construction'=>'建設中のページ',
+'blacklist_your_email'=>'あなたの電子メールをブラックリストに入れる',
+'including_news_letters'=>'ニュースレターを含むあなたの電子メールIDをブラックリストに入れる',
+'email_notifications'=>'電子メール通知',
+'sending_btc'=>'あなたの財布からBTCを送信する',
+'receiving_btc'=>'あなたの財布にBTCを受け取る',
+'buying_btc'=>'BTCを購入する',
+'selling_btc'=>'BTCの販売',
+'otp'=>'OTP',
+];?>

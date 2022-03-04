@@ -1,0 +1,26 @@
+<?php
+ return[
+'accounts'=>'Cuentas',
+'dashboard'=>'Dashboard',
+'members'=>'Miembros',
+'transactions'=>'Transacciones',
+'approval'=>'Aprobación',
+'document'=>'Documento',
+'withdrawal'=>'Retiro',
+'deposit'=>'Deposito',
+'message'=>'Mensaje',
+'setting'=>'Configuración',
+'limits'=>'Limites',
+'charges'=>'Cargos',
+'presale'=>'Preventa',
+'language'=>'Idioma',
+'referral'=>'Remisión',
+'banner' => 'Bandera',
+'Env_settings' => 'Env Settings',
+'Wire_Transfer' => 'Wire Transfer',
+'Bank_Deposit' => 'Deposit',
+'announcement' => 'Announcement',
+'cloud_mining' => 'Core Mining',
+'cloud_mining_subscription' => 'Core Mining Subscription',
+'env' => 'Env Settings'
+];?>

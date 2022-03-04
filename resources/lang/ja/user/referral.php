@@ -1,0 +1,10 @@
+<?php
+ return[
+'Referral'=>'紹介!',
+'Manage_Referral'=>'紹介回数とそのボーナスを管理する',
+'Registration_Date'=>'登録日',
+'Username'=>'ユーザー名',
+'Sponsor'=>'スポンサー',
+'Referral_Code'=>'紹介コード',
+'Bonus_Got'=>'ボーナスあり',
+];?>

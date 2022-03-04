@@ -1,0 +1,23 @@
+/*for mobile*/
+@media only screen and (max-width:760px) {
+.bs-slider > .carousel-inner > .item > img{height:200px;}
+}
+/*for medium mobile*/
+@media only screen and (min-width:480px) and (max-width:760px) {
+
+
+}
+/*for tablet*/
+@media only screen and (min-width:760px) and (max-width:1024px) {
+
+}
+
+/*for destop*/
+@media (min-width: 1200px){
+
+
+ }
+
+
+
+

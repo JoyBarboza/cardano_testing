@@ -1,0 +1,21 @@
+<?php
+ return[
+'action'=>'Acción',
+'home'=>'Inicio',
+'pre_sale'=>'PreVenta',
+'list'=>'Lista',
+'search_by'=>'Buscar por',
+'start_date'=>'Fecha de Inicio',
+'end_date'=>'Fecha para Finalizar',
+'total_coin'=>'Total de Monedas',
+'slabs'=>'Plancha',
+'view_slab'=>'Ver Plancha',
+'deactivate'=>'Desactivar',
+'activate'=>'Activar',
+'edit'=>'Editar',
+'delete'=>'Borrar',
+'no_transaction_exists'=>'No Existe una Transacción',
+'coin_units'=>'Unidades de Monedas',
+'price'=>'Precio',
+'close'=>'Cerrar',
+];?>

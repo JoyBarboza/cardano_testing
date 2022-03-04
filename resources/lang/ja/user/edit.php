@@ -1,0 +1,17 @@
+<?php
+ return[
+'first_name'=>'ファーストネーム',
+'last_name'=>'苗字',
+'middle_name'=>'ミドルネーム',
+'username'=>'ユーザー名',
+'email'=>'メール',
+'password'=>'パスワード',
+'role'=>'役割',
+'admin'=>'管理者',
+'subscriber'=>'加入者',
+'confirm_password'=>'パスワードを認証する',
+'active'=>'アクティブ',
+'deactive'=>'無効化する',
+'close'=>'閉じる',
+'save_changes'=>'変更内容を保存',
+];?>

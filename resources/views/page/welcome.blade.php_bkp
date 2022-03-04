@@ -1,0 +1,320 @@
+@extends('layouts.front')
+@section('content')
+
+
+<div class="banner_bg banner-area middle_text">
+        <div class="container">
+            <div class="banner-content text-center">
+                <img class="banner_logo" src="/time/images/logo.png?gh" alt="">
+                <h1 class="title">Welcome To The World of CAESIUM Blockchain</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="security_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <div class="image_hover">
+                        <div class="image_body">
+                            <h3>Virtual Wallet</h3>
+                            <img class="team_image" src="time/images/icon/1.png" alt="img">
+                         </div>
+                        <div class="seoverlay">
+                            <div class="text"><h3>Virtual Wallet</h3></div>
+                            <img class="hover_image" src="time/images/icon/1.png" alt="img">
+                         </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="image_hover">
+                        <div class="image_body">
+                            <h3>Enhanced Security </h3>
+                            <img class="team_image" src="time/images/icon/2.png" alt="img">
+                        </div>
+                        <div class="seoverlay">
+                            <div class="text"><h3>Enhanced Security </h3></div>
+                            <img class="hover_image" src="time/images/icon/2.png" alt="img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="image_hover">
+                        <div class="image_body">
+                            <h3>Shared Network</h3>
+                            <img class="team_image" src="time/images/icon/3.png" alt="img">
+                        </div>
+                        <div class="seoverlay">
+                            <div class="text"><h3>Shared Network</h3></div>
+                            <img class="hover_image" src="time/images/icon/3.png" alt="img">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--about-->
+    <section class="who-we-are-area pt-50 pb-50" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-5">
+                    <img src="time/images/about.png?ssd" alt="">
+                </div>
+                <div class="col-lg-7 col-md-7 middle_text">
+                    <div class="who-we-are-content">
+                        <span>Everything about CAESIUM</span>
+                        <h3 class="title">A decentralized platform </h3>
+                        <p>CAESIUM is an innovative ITO (Initial Token Offering) platform offering the best-in-segment token sharing options using blockchain. We bring you all the utilities of the crypto world and help create a private gateway to it.</p>
+                        
+                        <br>    
+                    </div>
+                    
+                    <p>CAESIUM tokens are a virtual investment tool created using the blockchain technology and can be an alternative way of raising funds using the existing blockchain platform. We have different investment options for the tokens that are pre-programmed using a computer algorithm or smart contracts. Our blockchain network is powered by the network participants helping you access the network without the involvement of intermediaries. We offer you a new way of investment using the distributed ledger technology and blockchain. </p>
+                </div>
+            </div>
+           
+        </div>
+    </section>
+     <!--about-->
+
+ <hr>
+
+     <section class="who-we-are-area pt-50 pb-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="who-we-are-content text-center">
+                        <h3 class="title">Introduction of Alpha Return - An action-packed Blockchain Game </h3>
+                    </div>
+                </div>
+             </div>
+
+             <br>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <video width="100%" controls autoplay>
+                        <source src="time/video/time-video.mp4" type="video/mp4">
+                    </video> 
+                </div>
+             </div>
+
+
+
+        </div>
+    </section>
+
+<hr>
+
+    <section class="who-we-are-area pt-50 pb-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="who-we-are-content text-center">
+                        <span>Why CAESIUM?</span>
+                        <h3 class="title">Investment simplified</h3>
+                        <p>Invest on tokens to raise capital </p>
+                    </div>
+                </div>
+             </div>
+        </div>
+        <div class="row">
+			<div class="col-md-5 col-sm-5">
+				<img class="mobile_desktop_img" src="time/images/about2.png?ghc" alt="img">
+			</div>
+			<div class="col-md-7 col-sm-7">
+				<div class="mobile_width">
+
+                    <div class="who-we-are-content">
+                        <h3 class="title">Get rewards on investments</h3>
+                        <p>CAESIUM token distribution process facilitates investments with returning rewards</p>
+                        <br>    
+                    </div>
+                    <p>Using the decentralized token investment platform of CAESIUM earn rewards on every referral you make. To create more tokens, we have varied ecosystems made only for you. The high staking token distribution system of CAESIUM is designed to encourage investors providing them higher rewards on return. The reward system works according to the proof-of-stake consensus algorithm helping you earn more reward on every investment made.</p>
+                </div>
+			</div>
+		</div>
+        <div class="row">
+			<div class="col-md-7 col-sm-7">
+				<div class="mobile_width float-right text-right">
+                    <div class="who-we-are-content">
+                        <h3 class="title">An evolving fundraising network</h3>
+                        <p>ITO or Initial Token Offering is the latest trend in the financial domain based on blockchain technology</p>
+                        <br>    
+                    </div>
+                    <p>Tokens or coins are best used as a virtual form of investment based on the blockchain technology and provides you with an alternative means of raising funds from the investments made using a decentralized blockchain platform. Using CAESIUM’s ITO platform create and record the distribution of tokens that will be created autonomously according to the algorithm of the smart contracts. The smart contracts are pre-programmed in terms of transferring the tokens to the investors and the investment can be only initiated after all the investment conditions are recognized or met.</p>
+                </div>
+			</div>
+            <div class="col-md-5 col-sm-5">
+				<img class="mobile_desktop_img right_m_img" src="time/images/about3.png?dfsg" alt="img">
+			</div>
+		</div>
+    </section>
+
+    <!--services-->
+    <section class="marketplace-area pt-60 pb-60" id="services">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="section-title text-center">
+                        <span>How CAESIUM help you create tokens?</span>
+                        <h3 class="title">Varied Ecosystems helping create tokens</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-7 order-lg-1 order-1">
+                    <div class="marketplace-item item-2 mt-30">
+                        <img src="time/images/icon/icon-1.png" alt="icon">
+                        <h3 class="title">Seamless <br> network</h3>
+                        <p>CAESIUM’s blockchain is easy to use for all the token investors and anyone can use the computing power to invest without undermining one’s privacy</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-7 order-lg-2 order-3">
+                    <div class="marketplace-item item-2 mt-30">
+                        <img src="time/images/icon/icon-2.png" alt="icon">
+                        <h3 class="title">Untouched <br>  network</h3>
+                        <p>CAESIUM’s blockchain network is not controlled by the internet, meaning, all your information is stored and limited to blockchain applications and its utilities </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-7 order-lg-3 order-5">
+                    <div class="marketplace-item item-2 mt-30">
+                       <img src="time/images/icon/icon-3.png" alt="icon">
+                        <h3 class="title">Users are <br>  at control</h3>
+                        <p>Seamlessly clarify your data on the network without disclosing anything specific, also applicable for the participants of the network requesting for it</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-7 order-lg-4 order-2">
+                    <div class="marketplace-item item-2 mt-15">
+                        <img src="time/images/icon/icon-4.png" alt="icon">
+                        <h3 class="title">Participants <br>  powering blockchain </h3>
+                        <p>Everything is decentralized and the consensus is accessible by all, and every user act as full node that is being connected through peer-to-peer network</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-7 order-lg-5 order-4">
+                    <div class="marketplace-item item-2 mt-15">
+                        <img src="time/images/icon/icon-5.png" alt="icon">
+                        <h3 class="title">Native <br>  token network</h3>
+                        <p>CAESIUM’s blockchain network is a native token network working on proof-of-stake consensus algorithm helping you earn more rewards using CAESIUM tokens  </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-7 order-lg-6 order-6">
+                    <div class="marketplace-item item-2 mt-15">
+                        <img src="time/images/icon/icon-6.png" alt="icon">
+                        <h3 class="title">The Lightest <br>  blockchain</h3>
+                        <p>CAESIUM’s blockchain network is light in terms of data size giving the developers quick access the most trusted and secure blockchain in the industry</p>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </section> 
+    <!--services-->
+
+    <section class="who-we-are-area marketplace-area pt-50 pb-50 light_bg" id="whitepaper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-md-7 middle_text">
+                    <div class="who-we-are-content">
+                        <h3 class="title">Independent blockchain </h3>
+                        <p>Being a decentralized network, CAESIUM’s blockchain network gives zero access to intermediaries and disperses any regulatory power from a controlling body</p>
+                        
+                        <br>    
+                    </div>
+                    <p>CAESIUM’s blockchain network is entirely digital and the public ledger is linked and secured through cryptographically. The network provides you with a continuous process of building blocks (containing a hash pointer, links of previous blocks, timestamp and transaction data). CAESIUM’s blockchain works based on Distributed Ledger Technology (DLT) making it ideal for verifying, performing and storing data and record transactions in real-time. Be a part of CAESIUM’s network to explore many ecosystems of the blockchain to create new tokens and earn rewards.</p>
+                    <div class="marketplace-btn">
+                        <ul>
+                            <li><a target="_blank" class="main-btn" href="time/pdf/Time_Whitepaper_v1.pdf">whitepaper</a></li>
+                       </ul>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 text-right">
+                    <img class="whitepaper_img" src="time/images/whitepaper.png?fgc" alt="">
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+    <!--faq-->
+    <section class="pt-50 pb-50 who-we-are-area" id="faq">
+        <div class="container">
+
+            <div class="row justify-content-center">
+                <div class="col-lg-7">
+                    <div class="who-we-are-content text-center">
+                        <span>We value your queries</span>
+                        <h3 class="title">Frequently Asked Questions</h3>
+                        <p>All your queries are answered here</p>
+                    </div>
+                </div>
+             </div>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                   <div class="faq-accordion">
+                        <div class="accrodion-grp" data-grp-name="faq-accrodion">
+                            <div class="accrodion active  animated wow fadeInRight" data-wow-duration="1500ms"
+                                data-wow-delay="0ms">
+                                <div class="accrodion-inner">
+                                    <div class="accrodion-title">
+                                        <h4>What is proof-of-work?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>It is an elementary concept to understand, and works based on cryptography ensuring that the users put in a certain amount of computational power for a certain purpose. In blockchain POW is a consensus algorithm which is used to confirm transactions to make new blocks in the network chain.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accrodion animated wow fadeInRight" data-wow-duration="1500ms"
+                                data-wow-delay="300ms">
+                                <div class="accrodion-inner">
+                                    <div class="accrodion-title">
+                                        <h4>What is decentralization?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>The blockchain networks are highly decentralized which disperses any control from a controlling body such as banks or any other governing bodies. Decentralization is everything about the transfer of controlling and decision-making power from a centralized entity with removal of intermediaries.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accrodion animated wow fadeInRight" data-wow-duration="1500ms"
+                                data-wow-delay="600ms">
+                                <div class="accrodion-inner">
+                                    <div class="accrodion-title">
+                                        <h4>What is blockchain used for?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>Blockchain is basically a decentralized distributed network of blocks and digital ledgers consisting the records in every block which cannot be altered once entered and can only be altered after making alterations of the subsequent blocks in the network.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accrodion  animated wow fadeInRight" data-wow-duration="1500ms"
+                                data-wow-delay="600ms">
+                                <div class="accrodion-inner">
+                                    <div class="accrodion-title">
+                                        <h4>What is a digital wallet?</h4>
+                                    </div>
+                                    <div class="accrodion-content">
+                                        <div class="inner">
+                                            <p>It is a software-based system that is used for the storage and transactions of cryptocurrencies. Apart from the storage of digital currencies, the wallets can be used for making payments to buy a product or service. A digital wallet can be used with mobile payment systems as well.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--faq-->
+
+
+@endsection
+

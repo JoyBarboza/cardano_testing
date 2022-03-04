@@ -1,0 +1,35 @@
+/*for mobile*/
+@media only screen and (max-width:760px) {
+.deposite_menu ul li{width: 100%; padding-bottom: 15px;}
+.deposite_menu ul li:last-child{padding-bottom: 0px;}
+.top_menu_ul li { margin-right: 0px; width: 100%; padding: 5px; text-align: center;}
+.top_para_text { width: 100%;text-align: center; padding: 5px 0px;}
+.logo { margin: 15px auto; display: block;}
+.deposite_menu ul {text-align: center;}
+.icon_wallet {margin: auto; float:unset;}
+.affix {position: unset !important;}
+}
+/*for medium mobile*/
+@media only screen and (min-width:480px) and (max-width:760px) {
+
+
+}
+/*for tablet*/
+@media only screen and (min-width:760px) and (max-width:1024px) {
+
+}
+
+/*for destop*/
+@media (min-width: 1200px){
+
+
+ }
+ @media( max-width : 585px ) {
+    .wizard { width: 90%; height: auto !important;}
+    span.round-tab { font-size: 16px; width: 50px; height: 50px;line-height: 50px;}
+    .wizard .nav-tabs > li a {width: 50px; height: 50px; line-height: 50px;}
+    .wizard li.active:after { content: " "; position: absolute; left: 35%; }
+}
+
+
+

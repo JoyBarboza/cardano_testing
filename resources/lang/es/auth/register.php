@@ -1,0 +1,20 @@
+<?php
+ return[
+'confirm_your_password'=>'Confirmar la contraseña',
+'register_here'=>'Registrar aquí',
+'choosing_get2change'=>'Gracias por elegir Get2Change. Proporcione sus detalles y regístrese con nosotros. Get2Change es su solución integral para el comercio y la transacción de TIME y BTC sin problemas.',
+'registration_form'=>'Formulario de inscripción',
+'register'=>'Registro',
+'forget'=>'Olvidé',
+'password'=>'¿Contraseña?',
+'login'=>'Iniciar sesión',
+'have_account'=>'¿Ya tienes una cuenta?',
+'your_email_id_here'=>'Su ID de correo electrónico aquí',
+'your_password_here'=>'Tu contraseña aquí',
+'referral_code'=>'código de referencia',
+'first_name_here'=>'Primer nombre aquí',
+'middle_name_here'=>'Segundo nombre aquí',
+'last_name_here'=>'Apellido aquí',
+'username_here'=>'Nombre de usuario aquí',
+'Register'=>'Registro',
+];?>

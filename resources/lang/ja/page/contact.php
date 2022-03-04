@@ -1,0 +1,12 @@
+<?php
+ return[
+'contactus'=>'お問い合わせ',
+'home'=>'ホーム',
+'contact_info'=>'連絡先',
+'social_media'=>'ソーシャルメディア',
+'contact_form'=>'お問い合わせフォーム',
+'name'=>'名前',
+'email'=>'電子メイル',
+'message'=>'メッセージ',
+'send'=>'送信する',
+];?>              

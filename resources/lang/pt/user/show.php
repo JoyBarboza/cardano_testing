@@ -1,0 +1,25 @@
+<?php
+return array (
+  'View_User_information' => 'Ver informações do usuário',
+  'first_name' => 'Primeiro nome',
+  'last_name' => 'Ultimo nome',
+  'middle_name' => 'Nome do meio',
+  'phone' => 'Telefone',
+  'email' => 'E-mail',
+  'country' => 'País',
+  'status' => 'Status',
+  'email_verified' => 'Email Verificado',
+  'two_factor_enabled' => 'Dois Factores Ativados',
+  'address' => 'Endereço',
+  'street' => 'Rua',
+  'city' => 'Cidade',
+  'state' => 'Estado',
+  'bank_details' => 'Detalhes bancários',
+  'account_no' => 'Número da Conta',
+  'ifsc_code' => 'IFSC código',
+  'close' => 'Fechar',
+  'porta_ac_consectetur_ac' => 'Porta ac consectetur ac',
+  'vestibulum_at_eros' => 'Vestibulum at eros',
+  'save_changes' => 'Salvar alterações',
+)
+?>

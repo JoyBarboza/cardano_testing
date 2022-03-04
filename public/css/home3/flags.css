@@ -1,0 +1,47 @@
+.flagstrap {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.flagstrap-icon {
+    display: inline-block;
+    width: 20px;
+    height: 11px;
+    
+    background: url(../../images/home3/flags.png) no-repeat
+}
+
+.flagstrap-placeholder,
+.flagstrap-placeholder i {
+  display: none
+}
+
+.flagstrap-icon.flagstrap-ad {
+    background-position: -16px 0
+}
+
+.flagstrap-icon.flagstrap-ja {
+    background-position: -21px 0
+}
+
+.flagstrap-icon.flagstrap-pt {
+    background-position: -41px 0
+}
+
+.flagstrap-icon.flagstrap-es {
+    background-position: -64px 0
+}
+
+.flagstrap-icon.flagstrap-ko {
+    background-position: -83px 0
+}
+
+.flagstrap-icon.flagstrap-zh {
+    background-position: -102px 0
+}
+
+.flagstrap-icon.flagstrap-ru {
+    background-position: -122px 0
+}
+

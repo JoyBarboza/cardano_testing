@@ -1,0 +1,63 @@
+.flagstrap {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.flagstrap-icon {
+    display: inline-block;
+    width: 17px;
+    height: 11px;
+    
+    background: url(../img/flags.png?fxb) no-repeat
+}
+.flag_right{ margin-top: 8px;}
+.flag_right button{background: transparent; line-height: unset !important;  font-size: 16px; font-weight: 500; color: #fff; padding: 5px;}
+.flag_right button:hover{color: #c5c5c5; border: 1px solid transparent;}
+.flag_right button:focus{box-shadow: none;}
+.login_section .flag_right .dropdown-menu { top: 10px !important;}
+.flag_right li a{display:block; cursor: pointer; padding:10px 10px;}
+.flag_right li a:hover{background: #f2f2f2;}
+.dropdown-menu {border-radius: 0px;}
+.flag_right .dropdown-menu{top:26px !important; width: 200px}
+
+
+.flagstrap-placeholder,
+.flagstrap-placeholder i {
+  display: none
+}
+
+
+.flagstrap-icon.flagstrap-ad {
+    background-position: -16px 0
+}
+
+.flagstrap-icon.flagstrap-ja {
+    background-position: -23px 0
+}
+
+.flagstrap-icon.flagstrap-pt {
+    background-position: -192px -11px
+}
+
+.flagstrap-icon.flagstrap-es {
+    background-position: -62px 0
+}
+
+.flagstrap-icon.flagstrap-ko {
+    background-position: -83px 0
+}
+
+.flagstrap-icon.flagstrap-zh {
+    background-position: -102px 0
+}
+
+.flagstrap-icon.flagstrap-ru {
+    background-position: -122px 0
+}
+.flagstrap-icon.flagstrap-en {
+    background-position: -2px 0
+}
+.flagstrap-icon.flagstrap-br {
+    background-position: -192px -11px;
+}

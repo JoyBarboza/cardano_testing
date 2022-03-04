@@ -1,0 +1,62 @@
+.top_para_text {
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 13px;
+    line-height: 6px;
+    margin-bottom: 0px
+}
+.f_item_text h3{font-size: 18px;}
+.simplesteps_section{background: #00a885; color:#fff; padding: 30px 0px; text-align: center;}
+.simplesteps_section h2{color:#fff;}
+.simplesteps_section h4{color:#fff;}
+.verify_icon .fa{font-size: 60px; margin-bottom: 20px; margin-top: 30px;}
+.accordian_section .form-control {height: unset;}
+.accordian_section .bg-primary { color: #000 !important;}
+.accordian_section{background: #00a885;}
+.accordian_section .form-control { padding: 5px 4px;}
+.accordian_section a { color: #00a885;}
+.featuredheading{text-align: center; margin-bottom: 50px}
+.menu_section{width:100%; }
+.logo{margin: 15px 0px;}
+.accordian_section .panel-body {padding: 15px 10px;}
+.affix { width: 100%; left: 0px;  z-index: 111; top: 0px !important; position: fixed !important;}
+
+.top_main_heading{background: #19a985; padding: 22px 0px; border-top: 1px solid #0a7459;}
+.top_main_heading h1{float: left; margin: 0px; color:#fff; font-size: 22px; line-height: 20px;}
+.heading_menu{list-style: none; float: right;}
+.heading_menu li{float:left; color: #fff; margin-right: 15px;}
+.heading_menu li a{color:#fff;}
+.heading_menu li:last-child{margin-right: 0px;}
+.heading_menu li.active{color: #0c5f49; font-weight: bold;}
+.heading_menu li .fa{margin-top: -7px;}
+
+.faq_section{padding: 30px 0px; width:100%;}
+.faq_ul{list-style: none; overflow: hidden; margin-left: -15px; margin-right: -15px;}
+.faq_ul li{width:50%; float:left; margin-bottom: 25px; padding: 0px 15px; cursor: pointer;}
+.faq_ul li div{border:1px solid #ccc; padding: 30px; margin: auto;}
+.modal.in .modal-dialog { z-index: 1111111;}
+.modal-title {color: #19a985;}
+.modal-body p{line-height: 28px;}
+.modal-header .close {color: red;}
+
+.modal-body input{border: 1px solid #d9d9d9; border-radius: 8px; width: 100%; margin: 0 0 20px; padding: 20px 15px;}
+.modal-body input:focus { border: 1px solid #19a985; color: #333333;}
+.modal-body button{background: #19a985; border-radius: 8px; color:#fff; width: 100%; border: 0; padding: 20px 15px}
+.modal-body button:hover { background: #0c8365;}
+.loginlogo{margin: 50px auto 0px; display: block;}
+
+.wallet_icon_section{width:100%; padding: 30px 0px; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;}
+.walet_sm_icon{background: url(../../images/spectrocoin-sprites.png)no-repeat right center;}
+
+.w_icon{-webkit-filter: grayscale(100%); width: 67px; float:left; margin-right: 20px;}
+.wallet_icon_section .fa{font-size: 28px; position: absolute; right: 15px; top: 10px;}
+.wallet_det{float:left;}
+.wallet_det p{margin: 0px; font-size: 18px;}
+.wallet_det h5{font-size: 20px; margin-top: 3px; margin-bottom: 0px;}
+
+
+
+
+
+
+

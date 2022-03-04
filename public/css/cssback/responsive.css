@@ -1,0 +1,46 @@
+/*for mobile*/
+@media only screen and (max-width:760px) {
+.top_section ul {text-align: center;}
+.top_ul_right {float: unset;}
+.logo {margin: auto; display: block;}
+.logo_section ul li {padding: 6px 6px;  height: unset; line-height: unset; font-size: 10px;}
+.top_section {padding-top: 1.2rem; padding-bottom: 1.2rem; }
+.menu_container { max-width: 100%;}
+.crausal_padding{padding:0px;}
+.banner_section .carousel-content h1{font-size: 18px;}
+.banner_section .carousel-content h3{font-size: 15px;}
+.banner_section .banner_form {margin-top:0px; padding: 10px 5px; margin-bottom:10px; min-height: 100px;}
+.banner_btn li a {padding: 5px 15px;}
+.banner_btn li {margin: 10px 3px;}
+.banner_btn {margin-top: 10px;}
+.sm_about_section .app_img img {margin-bottom: 10px;}
+.owl-theme .owl-controls .owl-buttons .owl-prev {left: -30px !important;}
+.owl-theme .owl-controls .owl-buttons .owl-next {right: -30px !important;}
+.download-button {margin-top: 10px;}
+.testimonial-content{margin:20px 0;}
+.comp-logo{padding-top:0px;}
+.faq_ul li {width: 100%;}
+.border_right{border-right: none;}
+.footer_menu li a {padding: 4px;}
+.countdown-container .countdown-value {font-size: 30px !important;}
+.banner_section .banner_form h1 {font-size: 24px;}
+.log_container{margin-left: 10px !important; margin-right: 10px !important;}
+}
+/*for medium mobile*/
+@media only screen and (min-width:480px) and (max-width:760px) {
+
+
+}
+/*for tablet*/
+@media only screen and (min-width:760px) and (max-width:1024px) {
+
+}
+
+/*for destop*/
+@media (min-width: 1200px){
+#menubar{display: none;}
+
+ }
+
+
+

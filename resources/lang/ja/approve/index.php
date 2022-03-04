@@ -1,0 +1,20 @@
+<?php
+ return[
+'identification_no'=>'識別',
+'home'=>'ホーム'',
+'approve'=>'承認する',
+'approved_document_list'=>'承認されたドキュメントリスト',
+'username'=>'ユーザー名',
+'address'=>'住所',
+'city'=>'シティ',
+'state'=>'状態',
+'panno'=>'Pan No',
+'documents'=>'ドキュメント',
+'Pending'=>'保留中',
+'Verified'=>'検証済み',
+'Rejected'=>'拒否された',
+'document_display'=>'ドキュメントの表示',
+'verification_status'=>'確認ステータス',
+'no_verification_pending'=>'確認リクエストが保留中ではありません',
+'close'=>'閉じる',
+];?>

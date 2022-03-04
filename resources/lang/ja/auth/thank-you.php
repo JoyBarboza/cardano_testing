@@ -1,0 +1,10 @@
+<?php
+ return[
+'Registration_Done'=>'登録完了',  
+'Hello'=>'こんにちは',  
+'Congratulations_on_coming_onboard'=>'機内にお越しいただきありがとうございます',
+'To_start_Login'=>'ログインを開始するには、メールを確認して[メール確認]リンクをクリックしてください',
+'Thanks_Regard'=>'ありがとうございます',
+'JPcoin_Team'=>'TIMEチーム',
+'login'=>'ログイン',
+];?>

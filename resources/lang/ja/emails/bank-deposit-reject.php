@@ -1,0 +1,10 @@
+<?php
+ return[
+'Hi'=>'こんにちは',
+'Your_deposit_has_been_rejected'=>'あなたの預金は拒否されました、私たちの顧客サポートに連絡してください',
+'Reference_no'=>'参照番号',
+'contact_us_anytime_at'=>'いつでもお問い合わせください',
+'If_you_have_any_questions'=>'ご不明な点がございましたら',
+'Best_regards'=>'宜しくお願いします',
+'JPcoinTeam'=>'JPcoinチーム',
+];?>

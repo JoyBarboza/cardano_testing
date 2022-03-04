@@ -1,0 +1,21 @@
+<?php
+ return[
+'action'=>'Action',
+'home'=>'Home',
+'pre_sale'=>'Pre Sale',
+'list'=>'List',
+'search_by'=>'Search By',
+'start_date'=>'Start Date',
+'end_date'=>'End Date',
+'total_coin'=>'Total Coin',
+'slabs'=>'Slabs',
+'view_slab'=>'View Slab',
+'deactivate'=>'Deactivate',
+'activate'=>'Activate',
+'edit'=>'Edit',
+'delete'=>'Delete',
+'no_transaction_exists'=>'No Transaction Exists',
+'coin_units'=>'Coin Units',
+'price'=>'Price',
+'close'=>'Close',
+];?>

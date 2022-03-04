@@ -1,0 +1,9 @@
+<?php
+return[
+'bch'=>'BCH',
+'send'=>'送る',
+'receive'=>'受け取る',
+'buy/Sell'=>'購入/売る',
+'copy'=>'複写
+',
+];?>

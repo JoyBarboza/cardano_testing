@@ -1,0 +1,22 @@
+<?php
+ return[
+'action'=>'アクション',
+'home'=>'自宅',
+'pre_sale'=>'販売',
+'list'=>'リスト',
+'search_by'=>'で検索',
+'Manage_Presale'=>'販売を管理する',
+'AddPreSale'=>'販売を追加する',
+'start_date'=>'開始日',
+'end_date'=>'終了日',
+'total_coin'=>'総コイン',
+'UnitPrice'=>'単価',
+'BonusPercent'=>'ボーナスパーセント',
+'Status'=>'状態',
+'Active'=>'アクティブ',
+'Inactive'=>'非アクティブ',
+'edit'=>'編集',
+'delete'=>'削除',
+'no_transaction_exists'=>'トランザクションなし存在する',
+'DiscountPercent' => 'ディスカウント パーセント'
+];?>

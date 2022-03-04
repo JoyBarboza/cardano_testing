@@ -1,0 +1,27 @@
+<?php
+return array (
+  'Env_settings' => 'Env Settings',
+  'Wire_Transfer' => 'Core mining Settings',
+  'Bank_Deposit' => 'Deposit',
+  'accounts' => 'Accounts',
+  'dashboard' => 'Dashboard',
+  'members' => 'Members',
+  'transactions' => 'Transactions',
+  'approval' => 'Approval',
+  'document' => 'Document',
+  'withdrawal' => 'Withdraw',
+  'deposit' => 'Deposit',
+  'message' => 'Message',
+  'setting' => 'Setting',
+  'limits' => 'Limits',
+  'charges' => 'Charges',
+  'presale' => 'Presale',
+  'language' => 'Language',
+  'referral' => 'Referral',
+  'banner' => 'Banner',
+  'announcement' => 'Announcement',
+  'cloud_mining' => 'Core Mining',
+  'cloud_mining_subscription' => 'Core Mining Subscription',
+  'env' => 'Env Settings',
+)
+?>

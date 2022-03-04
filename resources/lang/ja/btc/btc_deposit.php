@@ -1,0 +1,10 @@
+<?php
+return[
+'back'=>'バック',
+'deposit_bitcoins'=>'預金ビットコイン',
+'history'=>'歴史',
+'deposit_account'=>'預金口座',
+'btc'=>'BTC',
+'bitcoin_address'=>'ビットコインアドレス',
+'copy'=>'コピー',
+];?>

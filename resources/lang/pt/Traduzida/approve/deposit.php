@@ -1,0 +1,23 @@
+<?php
+ return[
+'enter_user_info'=>'Insira a informação do usuário',
+'home'=>'Inicio',
+'approval_deposit'=>'Aprovação de Depósito',
+'approval'=>'Aprovado',
+'management'=>'Administração',
+'search_by'=>'Procurar por',
+'transaction_date_between'=>'Data de transação entre',
+'to'=>'Para',
+'transaction_id'=>'Transação ID',
+'user'=>'Usuário',
+'search'=>'Pesquisa',
+'user_transaction_management'=>'Gerenciamento de transações do usuário',
+'date'=>'Data',
+'payement_ref_no'=>'Número Referência de Pagamento,
+'username'=>'Nome do Usuário',
+'amount'=>'Quantidade',
+'action'=>'Ação',
+'pending'=>'Pendente',
+'not_permited'=>'Não é permitido',
+'no_transaction_exists'=>'Não existe nenhuma transação',
+];?>

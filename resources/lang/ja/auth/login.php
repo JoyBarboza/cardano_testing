@@ -1,0 +1,13 @@
+<?php
+return[
+'login_form'=>'ログインフォーム',
+'back_get2change'=>'取引.',
+'login'=>'ログイン',
+'your_email_id_here'=>'あなたのメールアドレスはここに',
+'your_password_here'=>'あなたのパスワードはここに',
+'signin'=>'サインイン',
+'no_account'=>'アカウントを持っていないのですか？',
+'register_now'=>'今すぐ登録',
+'forget'=>'忘れる',
+'password'=>'パスワード？',
+];?>

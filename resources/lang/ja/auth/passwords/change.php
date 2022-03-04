@@ -1,0 +1,9 @@
+<?php
+return[
+'password_renewal'=>'パスワードの更新',
+'edit_profile'=>'プロファイル編集',
+'old_password'=>'以前のパスワード',
+'new_password'=>'新しいパスワード',
+'confirm_password'=>'パスワードを認証する',
+'change_password'=>'パスワードを変更する',
+];?>

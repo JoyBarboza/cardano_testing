@@ -1,0 +1,62 @@
+/*for mobile*/
+@media only screen and (max-width:760px) {
+ .logo{float: unset; margin: auto; display: block;}
+ .social_media {float: left;}
+ .banneer_top_padding{padding-top: 0px;}
+ .top_ul li span {margin: 0px 2px;}
+ .top_ul li {border-right: none; padding-right: 2px;}
+ header {background: rgba(0, 0, 0, 0.9); position: static;}
+ .banner_section .baner_bg {padding: 0px 0px;}
+ .affix {position: unset !important;}
+ .banner_loginbtn li {margin: 5px 10px;}
+ .solution_left_box { width: 15%;}
+ .solution_right_box { width: 85%;}
+ .aboutus_section img {margin-top: 10px;}
+ .main_heading {font-size: 2em; margin-bottom: 10px;}
+ .padding_top{padding-top: 10px;}
+ .social_media li {margin: 0px 1px;}
+ .top_ul {margin-bottom: 10px;}
+ .site_wallet_ul li {width: 50%; float: left; font-size: 18px;}
+ .site_wallet_ul li a {display: inline-block; padding: 10px 0px;}
+ .site_wallet_ul li img {height: 35px;}
+ .owl-theme .owl-controls .owl-buttons .owl-prev {left: -29px !important;}
+ .owl-theme .owl-controls .owl-buttons .owl-next {right: -29px !important;}
+ #cssmenu {text-align: left !important;}
+ .banner_loginbtn {margin-top: 0px;}
+ .banner_section .baner_bg h1 {font-size: 3em;}
+ .aboutus_section { padding: 20px 0px}
+ .main_headinghome {margin-bottom: 10px;}
+ .token_sale_stages {padding: 20px 0px;}
+ .main_headinghome {font-size: 2.5em;}
+ .transactions {padding: 20px 0px;}
+ .wallet_section {padding: 20px 0px;}
+ .white_paper_section {padding: 20px 0px;}
+ .white_paper_section button {margin-top: 20px !important;}
+ .faq_section {padding: 20px 0px;}
+ 
+}
+/*for medium mobile*/
+@media only screen and (min-width:480px) and (max-width:760px) {
+
+
+}
+/*for tablet*/
+@media only screen and (min-width:760px) and (max-width:1000px) {
+
+}
+
+/*for destop*/
+@media (min-width: 1200px){
+ .container {width: 1200px;}
+}
+
+@media print
+{
+ body{visibility: hidden;}
+ html{visibility: hidden;}
+ .print_code {visibility: visible; position: absolute;left: 25%; top: -500px;}
+ .print_code img {height: 600px; width: 600px;}
+ .print_code p {font-size: 40px;}
+ .print_code p span{color: #FF0000;}
+}
+ 

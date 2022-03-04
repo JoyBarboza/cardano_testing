@@ -1,0 +1,229 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px; padding:0px;}
+body{overflow-x: hidden; font-family: 'Raleway', sans-serif; font-family: 'Roboto', sans-serif;}
+header{background: rgba(0,0,0,0.60); position: absolute; top:0px; left: 0px; right: 0px;   color: #7b9694; z-index: 2; }
+.logo{float: left; margin-right: 10px; width: 126px;}
+.social_media{list-style: none; margin-top: 10px; margin-bottom: 0px; float: right;}
+.social_media li{display: inline-block; margin: 0px 5px;}
+.social_media li a{color:#fff; height: 30px; width: 30px; display: inline-block; border: 1px solid #7b9694; border-radius: 50%; padding: 5px 6px; text-align: center;}
+.social_media li a:hover{color:#7b9694; border: 1px solid #fff;}
+
+.banner_section{background: url(../../images/home3/banner_02.jpg)no-repeat center; background-size: cover;}
+.banner_section .baner_bg{background: rgba(66, 66, 66, 0.6);  padding: 80px 0px 40px 0px;}
+.banner_section .baner_bg h1{color:#fff; font-size: 5em;  text-align: center; font-family: 'Raleway', sans-serif;}
+.banner_section .baner_bg h2{color:#fff;  text-align: center;}
+.banner_section .baner_bg h3.subtitle{color:#fff;  text-align: center;letter-spacing: 5px;}
+.top_section{width:100%; padding: 5px 0px; background: #16b5c8;}
+.menu_section{padding: 10px 0px;}
+.top_ul{list-style: none; margin: 0px; color: #fff; margin-top: 7px; margin-bottom: 0px;}
+.top_ul li{display: inline-block; border-right: 1px solid #ccc; padding-right: 10px;}
+.top_ul li span{color: #0c6974; margin: 0px 10px;}
+.top_ul li:last-child{border-right:none;}
+
+.login_btn{list-style: none; margin-left: 10px; float: right; margin-bottom: 0px; color: #fff; text-align: right;}
+.login_btn li{display: inline-block;}
+.login_btn li a{color:#fff; display: inline-block; padding: 7px 6px; font-size: 14px; letter-spacing: 1px}
+.login_btn li a:hover{color:#081739; text-decoration: none;}
+.banneer_top_padding{padding-top: 30px;}
+.banner_listul{list-style: none; margin-top: 20px; margin-bottom: 0px;}
+.banner_listul li{display: block; color: #fff; font-size: 20px; padding: 10px 10px; border-left: 2px solid #e98b0a; margin: 20px 10px;}
+.banner_listul li span{display: block; font-weight: bold; font-family: 'Raleway', sans-serif; font-size: 26px; color: #16c8bd; letter-spacing: 2px}
+.banner_loginbtn{list-style: none; margin-top: 60px;}
+.banner_loginbtn li{display: inline-block; margin: 0px 10px; }
+.banner_loginbtn li a{display: inline-block; text-align: center; background: #e98b0a; color: #fff; padding: 15px; font-size: 20px; width: 200px}
+.banner_loginbtn li a:hover{background: #fff; color:#e98b0a; text-decoration: none;}
+.count_down_container{background: rgba(0,0,0,0.60); position: relative; margin-top: 21px !important; max-width: 370px; padding: 20px; margin: auto; text-align: center}
+.count_down_container img{width:100%;}
+.by_tokens{width:100%; text-align: center; background: #16c8bd; color: #fff; margin-bottom: 20px; font-size: 21px; border: none; padding: 10px; }
+.by_tokens:hover{background: #fff; color:#16c8bd;}
+.count_down_container .benifit{ color: #16c8bd !important; margin: 0px 0px 15px 0px; position: relative; font-size: 19px; letter-spacing: 2px;}
+.count_down_container h3{margin-top: 10px; color: #e98b0a;}
+.count_down_container h4{color: #fff; margin-bottom: 10px;}
+.count_down_container h5{color: #e98b0a; margin-bottom: 10px;}
+.sm_icon{background: #F4F6F9; padding: 8px 0px;  border-bottom: 1px solid #DEDFE1;}
+.sm_icon ul{list-style: none; text-align: center; margin: 0px;}
+.sm_icon li{display: inline-block; }
+.sm_icon li img{width: 100%}
+.sm_icon li a{margin: 0px 5px; display: inline-block; border: 1px solid #DEDFE1; border-radius: 50%; padding: 7px 8px; height: 40px; width: 40px;}
+.sm_icon li a:hover{border: 1px solid #16c8bd;}
+.main_headinghome{text-align: center; font-family: 'Raleway', sans-serif; margin-top: 0px; font-size: 3em; margin-bottom: 60px}
+.main_headinghome span{color:#16c8bd;}
+
+.aboutus_section{padding: 80px 0px; background: #fff;}
+.aboutus_para{font-size: 18px; color: #6f6e6e; margin-top: 20px; line-height: 30px; margin-bottom: 40px;}
+.about_container{overflow: hidden; max-width: 660px;}
+.about_margin{margin-bottom: 20px; overflow: hidden;}
+
+.token_sale_stages h1{color:#fff;}
+.token_sale_stages {width: 100%; background: #1d242c; padding: 80px 0px;}
+.token_bg {background: rgba(255, 255, 255, 0.05); position:relative; border: 1px solid #3f4042;  margin-top: 40px; padding: 20px; text-align: center;}
+.token_sale_stages h4 {font-size: 40px; color: #16c8bd; text-align: center;}
+.token_bg h3 {color: #fff; font-size: 20px;}
+.token_bg hr {border-top: 1px solid #3f4042;}
+.token_bg h2 {color: #e98b0a; font-size: 20px; margin-top: 10px;}
+.token_bg h3 { color: #fff; font-size: 20px;}
+.token_bg h3 span{color: #30a40c; margin-left: 5px;}
+.token_sale_stages p { color: #a6a6a6; margin-top: 0px; text-align: center; font-size: 18px;}
+.sold_out{background: #e98b0a; line-height: 15px; text-shadow: 4px 6px 8px #4d4d4d; text-transform: uppercase; width: 50px; color: #fff; display: inline-block; padding: 7px; font-size: 13px; position: absolute; left: 0px; top: 0px;}
+
+.transactions {width: 100%; padding: 80px 0px; background: #fff;}
+.transactions h4 {text-align: center; color: #4298ab;}
+.transactions .perfit {float: left; padding: 20px; font-size: 42px;}
+.transactions .perfit_details { padding: 20px; font-size: 17px;}
+.solution_left_box{width: 8%; float: left;}
+.solution_left_box .fa{color: #e98b0a; font-size: 25px; border: 1px solid #16c8bd; padding: 5px}
+.solution_right_box{width: 92%; line-height: 25px; float: right; font-size: 15px;}
+.aboutus_section img{margin-top: 80px; width: 100%; }
+.affix {top: 0px; left:0px; right:0px; background: #081739;}
+.wallet_section{background-color: #1C3248; padding: 80px 0px;}
+.wallet_section .main_headinghome{color: #fff;}
+.download_button{padding: 15px 15px 15px 73px; margin: 20px 0px; border-radius: 5rem; position: relative; display: block;background: rgba(255, 255, 255, 0.05); border: 1px solid #526478;}
+.download-button__icon {height: 40px; position: absolute; left: 30px; top: 19px;}
+.download-button__platform{color: #748598; display: block; text-align: center; font-size: 15px;}
+.download-button__store{color: #FFFFFF; display: block; text-align: center; font-size: 17px;}
+.download_button:hover{text-decoration: none; background: rgba(255, 255, 255, 0.1);}
+.wallet_section .down_link{text-align: center; color: #7b9694; display: block; margin-top: 20px; font-size: 17px;}
+.wallet_section .down_link:hover{color: #fff; text-decoration: none;}
+.wallet_container{max-width: 1000px; margin: auto;}
+.white_paper_section{padding: 80px 0px; background: #F4F6F9;}
+.white_paper_section button{color: #fff; background: #e98b0a; border: none; width: 290px; font-size: 20px; padding: 14px; margin: auto; display: block; margin-top: 50px !important;}
+.white_paper_section button img{width: 40px; margin-right: 5px;}
+.faq_section{background-color: #1c3248; padding: 80px 0px;}
+.faq_section .main_headinghome{color: #fff;}
+.step2_img_con p{font-weight:  bold; font-size: 17px; margin-top: 5px;}
+.panel-heading {padding: 0px; border-radius:0px;}
+.panel-title>a, .panel-title>a:active{display:block;padding:15px; color:#555; font-size:16px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; word-spacing:3px;text-decoration:none;}
+.panel-heading  a:before {font-family: 'Glyphicons Halflings'; content: "\e114"; float: right; transition: all 0.5s;}
+.panel-heading.active a:before {-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); transform: rotate(180deg);} 
+.faq_section .panel-default > .panel-heading {font-family: 'Raleway', sans-serif; color: #fff; background-color: #16c8bd; border-color: #16c8bd;}
+.faq_section .panel-title > a, .panel-title > a:active { color: #fff;}
+.faq_section .panel-group .panel { margin-bottom: 20px !important; border-radius: 0px; border: none;}
+.faq_section .panel-body {background: #1c3248; border: none; color: #fff; font-size: 16px;}
+.our_team{padding: 80px 0px; background: #F4F6F9;}
+.team_container{padding: 20px; border: 1px solid #ccc; margin: 10px 0px;}
+.team_container:hover{border: 1px solid #1c3248;}
+.team_container img{width:100%; width: 200px; height: 200px; border-radius: 50%; margin: auto; display: block;}
+.team_container h3{text-align: center; margin: 7px 0px;}
+.team_container p{text-align: center;}
+footer{background: #00060c; padding: 20px 0px;}
+.footer_menu{list-style: none; font-family: 'Raleway', sans-serif; margin-top: 12px; margin-bottom: 0px; text-align: right;}
+.footer_menu li{display: inline-block; padding: 0px 13px;}
+.footer_menu li a{color:#fff;}
+footer p{margin: 0px; margin-top: 14px;}
+footer hr{margin-top: 10px; margin-bottom: 10px; border-top: 1px solid #626262;}
+.flag_right .btn{border-radius: 0px; border: 1px solid #fff; padding: 2px 10px;}
+.flag_right{float: right; margin: 5px;}
+footer img{width:50px; float: left; margin-right: 20px; width: 126px; }
+.padding_top{padding-top: 130px;}
+.login_section{width:100%; padding: 20px 0px;}
+.login_inner{background-color: #eee; margin-top: 30px; padding: 20px; margin-bottom: 30px;}
+.login_inner h2{text-align: center;}
+.login_inner hr{border-top: 1px solid #dadada;}
+.login_container{max-width: 400px; margin: auto; padding: 10px;}
+.login_container .text_input{width: 100%; border-bottom: 2px solid #fff !important; border: none; background: #fff; padding: 12px; font-size: 16px;}
+.login_container .submit_input{background: #16c8bd; color:#fff; width:100%; border:none; padding: 8px; font-size: 23px;}
+.login_container .text_input:focus{border-bottom: 2px solid #16c8bd !important;}
+.login_container .submit_input:hover{background: #0ab6ab;}
+.login_container .areat_account{color: #514f4f; font-size: 16px;}
+.top_account{float: right;}
+.top_account .btn {margin-right: 15px; margin-top: 5px; padding: 1px 4px; border-radius: 0px; border: none;}
+
+.flag_right .btn-default{background-color: transparent; color: #fff;}
+.flag_right .btn-default:active{color:#fff; background-color: transparent; border: 1px solid #fff;}
+
+.site_wallet_ul{list-style:none; overflow: hidden; font-family: 'Raleway', sans-serif;}
+.site_wallet_ul li{display:block; font-size:20px;}
+.site_wallet_ul li a{display:block; padding: 15px 15px; color:#000;}
+.site_wallet_ul li a:hover img{filter:unset;}
+.site_wallet_ul li span{margin-left: 10px;}
+.site_wallet_ul li img{height: 45px;}
+.site_wallet_ul a:hover{text-decoration:none; color:#16c8bd;}
+
+.deposite_heading {margin-top: 10px;}
+.currency_exchange .exchange_btn {margin-bottom: 30px !important; background: #16c8bd; border-radius:0px !important; padding: 10px; font-size: 17px;}
+.currency_exchange .exchange_btn:hover { background: #0ab6ab;}
+
+.ul_profile{list-style:none;}
+.ul_profile li{display:block; line-height: 25px; padding: 5px;}
+.ul_profile li span{font-weight:bold; margin-right: 7px;}
+
+.exchange_btn {margin-bottom: 20px;
+    margin-top: 10px;
+    background: #16c8bd;
+    border-radius: 0px !important;
+    padding: 5px;
+    font-size: 17px;
+    border: none;
+color: #fff;
+width: 200px;
+}
+
+.exchange_btn:hover {
+    background: #0ab6ab;
+}
+.input-group .form-control {z-index: 1 !important;}
+.datepicker-dropdown { z-index: 1;}
+
+
+
+.error_section{width: 100%; padding: 159px 0px 0px 0px;}
+.error_section img{margin: auto; display: block; }
+.error_section h3{text-align: center; font-size: 29px; color: #e98b0a;}
+.error_section a{text-align: center; display: block; margin-top: 22px !important; padding: 10px; background: rgba(0,0,0,0.60); margin: auto; max-width: 150px; color: #fff; }
+.error_section a:hover{text-decoration:none; color: #fff; }
+
+#select_country ul li {cursor: pointer;}
+
+.dropbtn {padding: 7px 10px;
+    background: transparent;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {list-style:none;
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 227px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content li a{color:#fff;}
+.dropdown-content li {background: #222; font-size: 14px;
+    color: black;
+    padding: 8px 22px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content li:nth-of-type(2n+1) {
+    background-color: #151513;
+}
+
+.dropdown-content li:hover a{color:#f8b032; text-decoration:none;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+

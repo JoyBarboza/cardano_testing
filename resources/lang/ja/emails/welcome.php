@@ -1,0 +1,12 @@
+<?php
+ return[
+'email_verification'=>'電子メールの確認',
+'Congratulations_coming_onboard'=>'機内にお越しいただきありがとうございます!',
+'To_Activate_account'=>'アカウントを有効にするには下記のリンクをクリックしてください.',
+'For_protection'=>'あなたの保護のために、上記のリンクは1回の使用に適しており、1週間で終了します。ご不明な点がございましたら',
+'contact_us_anytime'=>'いつでもお問い合わせください',
+'Best_regards'=>'宜しくお願いします',
+'JPcoinTeam'=>'JPcoinチーム',
+'Welcome_To_JPCoin'=>'JPCoinへようこそ',
+'Click_To_Verify_Your_Mail'=>'クリックしてあなたのメールを確認する',
+];?>

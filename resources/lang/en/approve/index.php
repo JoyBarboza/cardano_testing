@@ -1,0 +1,20 @@
+<?php
+ return[
+'identification_no'=>'Identification No',
+'home'=>'Home',
+'approve'=>'Approve',
+'approved_document_list'=>'Approved Document List',
+'username'=>'User Name',
+'address'=>'Address',
+'city'=>'City',
+'state'=>'State',
+'panno'=>'Pan No',
+'documents'=>'Documents',
+'Pending'=>'Pending',
+'Verified'=>'Verified',
+'Rejected'=>'Rejected',
+'document_display'=>'Document Display',
+'verification_status'=>'Verification Status',
+'no_verification_pending'=>'No verification request is pending',
+'close'=>'Close',
+];?>

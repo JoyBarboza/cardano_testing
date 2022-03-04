@@ -1,0 +1,25 @@
+<?php
+ return[
+'Deposit_Fiat_Currency'=>'Deposit Fiat Currency',
+'Deposit'=>'Deposit',
+'Address'=>'Address',
+'TxnID'=>'Txn ID',
+'Amount'=>'Amount',
+'Currency'=>'Currency',
+'Check_Status'=>'Check Status',
+'Deposit_amount_address'=>'Deposit amount on this address',
+'Select_coin_to_pay'=>'Select coin to pay',
+'Bitcoin'=>'Bitcoin',
+'Bitcoin_Cash'=>'Bitcoin Cash',
+'Litecoin'=>'Litecoin',
+'Monereo'=>'Monereo',
+'Litecoin_Testnet'=>'Litecoin Testnet',
+'Proceed'=>'Proceed',
+'USD_Payment_Instructions'=>'Payment instructions in USD',
+'maintain_usd_balance'=>'You can keep a USD balance in your Time account that you can use to buy altcoin instantly. Complete the loading of the KYC document before transferring USD to our bank account. We do not accept cash deposits and must use NEFT / RTGS / IMPS from your registered bank account only. Once you transfer USD, return to this page and update the REFERENCE NUMBER of your transfer with the deposit order you created. Once we receive USD in our bank account, your DEPOSIT order will be processed in 3-4 business hours, but may take up to 24 hours. Our processing time is 10 a.m. to 7 p.m. Monday to Friday (Monday to Saturday).',
+'hold_usd_in_usd_wallet'=>'We can only keep your USD in your wallet in USD for up to 90 days. If you do not fully use your balance in USD within 90 days, we will return the remaining balance to your bank account. We have limits on the amount of USD you can have in your balance in USD. We have accounts in State Bank of India to which you can send payments in USD.',
+'JPC_Payment_Instructions'=>'ICO Payment Instructions',
+'JPC_Payment_Instructions_details'=>'Deposit ICO to above shown address. It may take upto 24 hours in some cases to reflect same in your account.',
+'MSC_Payment_Instructions'=>'ICO Payment Instructions',
+'MSC_Payment_Instructions_details'=>'Deposit ICO to above shown address. It may take upto 24 hours in some cases to reflect same in your account.'
+];?>

@@ -1,0 +1,25 @@
+<?php
+return array (
+  'View_User_information' => 'ユーザー情報を表示する',
+  'first_name' => 'ファーストネーム',
+  'last_name' => '苗字',
+  'middle_name' => 'ミドルネーム',
+  'phone' => '電話番号',
+  'email' => 'メール',
+  'country' => '国',
+  'status' => '状態',
+  'email_verified' => 'メールで確認済み',
+  'two_factor_enabled' => '2因子 有効にする',
+  'address' => '住所',
+  'street' => '通り',
+  'city' => 'シティ',
+  'state' => '状態',
+  'bank_details' => '銀行詳細',
+  'account_no' => 'アカウントなし',
+  'ifsc_code' => 'IFSC コード',
+  'close' => '閉じる',
+  'porta_ac_consectetur_ac' => 'Porta ac consectetur ac',
+  'vestibulum_at_eros' => 'Vestibulum at eros',
+  'save_changes' => '変更内容を保存',
+)
+?>
